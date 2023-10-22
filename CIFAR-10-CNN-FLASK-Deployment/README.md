@@ -55,7 +55,7 @@ The following two figure are outputs of the web programming, FLASK.
 
 1. Fork this repository.
  ```console
-$ git clone https://github.com/MelihGulum/CIFAR-10-CNN-FLASK-Deployment.git
+$ git clone https://github.com/Jalil98/CNN-Image-Detection-Using-Datasets-CIFAR-10.git
 
 ```
 
